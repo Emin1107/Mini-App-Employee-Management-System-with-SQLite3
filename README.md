@@ -10,7 +10,7 @@
 
 ## Preview
 
-![App Preview](/Assets/preview.png)
+![App Preview](Mini App- Employer Management System with SQLite3/Assets/preview.png)
 
 ---
 

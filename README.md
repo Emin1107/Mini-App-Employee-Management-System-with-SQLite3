@@ -10,7 +10,7 @@
 
 ## Preview
 
-![App Preview](/Mini-App-Employee-Management-System-with-SQLite3/Mini-App-Employee-Management-System-with-SQLite3/Assets/preview.png)
+![App Preview](/Assets/preview.png)
 
 ---
 
@@ -58,6 +58,11 @@
  - **"Delete Employee"** to remove the selected employee.  
  - **"New Employee"** to clear the form and enter fresh data.
 
+---
+
+## File Structure
+
+```
 .
 ├── main.py                 # Main GUI script
 ├── database.py             # Handles SQLite3 database operations
@@ -65,3 +70,23 @@
 │   └── e.ico               # App icon
 │   └── app-preview.png     # Screenshot of the app
 └── README.md               # This file
+```
+
+---
+
+## Author
+
+**Emin Hodžić**  
+Software Engineering and Management student at TU Graz.
+Experienced in web development (WordPress), image editing, and Python GUI applications.  
+Created this tool as part of a self-learning journey and client-focused solutions.
+
+For collaboration or freelance work, feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/emin-hodzic) or [GitHub](https://github.com/Emin1107).
+
+---
+
+## License
+
+This project is licensed under the **Apache License** – free to use, modify, and distribute.
+
+---

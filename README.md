@@ -81,7 +81,7 @@ Software Engineering and Management student at TU Graz.
 Experienced in web development (WordPress), image editing, and Python GUI applications.  
 Created this tool as part of a self-learning journey and client-focused solutions.
 
-For collaboration or freelance work, feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/emin-hodzic) or [GitHub](https://github.com/Emin1107).
+For collaboration or freelance work, feel free to get in touch via [LinkedIn](https://www.linkedin.com/in/emin-hodzic-697445368) or [GitHub](https://github.com/Emin1107).
 
 ---
 

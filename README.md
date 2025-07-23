@@ -10,7 +10,7 @@
 
 ## Preview
 
-![App Preview](/Assets/preview.png)
+![App Preview](Mini-App-Employee-Management-System-with-SQLite3/Assets/preview.png)
 
 ---
 
@@ -36,16 +36,6 @@
 
 ---
 
-## Getting Started
-
-### Requirements
-
-- Python 3.7+
-- Install the required library:
-
-  ```bash
-  pip install customtkinter
-
 ### Running the App
 
   Ensure you have the accompanying `database.py` file (for database logic).
@@ -56,15 +46,17 @@
   python main.py
   ```
 
+---
+
 ## How to Use
 
-1. Start the application.  
-2. Enter employee information in the input fields (ID, Name, Nachname, Jahre, Status).  
-3. Click **"Add Employee"** to save a new record to the database.  
-4. Select an employee from the table to load their info into the form.  
-5. Click **"Update Employee"** to modify existing data.  
-6. Click **"Delete Employee"** to remove the selected employee.  
-7. Click **"New Employee"** to clear the form and enter fresh data.
+ - 1. Start the application.  
+ - 2. Enter employee information in the input fields (ID, Name, Nachname, Jahre, Status).  
+ - 3. Click **"Add Employee"** to save a new record to the database.  
+ - 4. Select an employee from the table to load their info into the form.  
+ - 5. Click **"Update Employee"** to modify existing data.  
+ - 6. Click **"Delete Employee"** to remove the selected employee.  
+ - 7. Click **"New Employee"** to clear the form and enter fresh data.
 
 .
 ├── main.py                 # Main GUI script
